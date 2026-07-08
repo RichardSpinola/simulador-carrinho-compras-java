@@ -36,5 +36,5 @@ java -cp src CarrinhoDeCompras_Equipe6
 
 Projeto desenvolvido em dupla:
 
-- [@quietsunset95](https://github.com/quietsunset95)
+- [@RichardSpinola](https://github.com/RichardSpinola)
 - [@ArthurBigdedd](https://github.com/ArthurBigdedd)
