@@ -28,8 +28,8 @@ Sistema de carrinho de compras em Java que utiliza um catálogo pré-carregado d
 ## Como executar
 
 ```bash
-javac src/CarrinhoDeCompras_Equipe6.java
-java -cp src CarrinhoDeCompras_Equipe6
+javac CarrinhoDeCompras_Equipe6.java
+java CarrinhoDeCompras_Equipe6
 ```
 
 ## Autores
