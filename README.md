@@ -38,3 +38,5 @@ Projeto desenvolvido em dupla:
 
 - [@RichardSpinola](https://github.com/RichardSpinola)
 - [@ArthurBigdedd](https://github.com/ArthurBigdedd)
+
+Projeto feito em sala no 1º semestre de ADS (UCSAL), com as duas pessoas participando da lógica e do código.
