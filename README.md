@@ -23,7 +23,6 @@ Sistema de carrinho de compras em Java que utiliza um catálogo pré-carregado d
 - ✅ **Remoção de itens:** opção "Editar Compra" permite remover quantidades já adicionadas ao carrinho, devolvendo o estoque.
 - ✅ **Cupom de desconto:** ao finalizar a compra, o cliente pode informar se possui cupom, aplicando 20% de desconto sobre o valor total.
 - ✅ **Limite de estoque:** cada produto tem uma quantidade disponível que é atualizada conforme os itens são comprados ou removidos do carrinho.
-- ⬜ **Relatório final detalhado:** não implementado — a finalização exibe apenas o valor total, sem o detalhamento item a item.
 
 ## Como executar
 
